@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Resource Group
 - Virtual Network
 - Virtual Machine
-- Remote Desktop
+- Microsoft Remote Desktop
 
 <h2>Installation Steps</h2>
 
