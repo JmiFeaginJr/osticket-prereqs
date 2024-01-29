@@ -55,6 +55,6 @@ Upon obtaining the public IP address, it can be seamlessly integrated with the R
   <img src= "https://i.imgur.com/Z9cl0LP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To establish a robust environment for hosting osTicket, a comprehensive setup is initiated. This begins with the installation and enabling of Internet Information Services (IIS) on Windows, ensuring that essential features such as CGI and HTTP are enabled to facilitate web application hosting. Additionally, a MySQL database is configured to serve as the backend infrastructure, storing and managing data vital for osTicket's operations. 
 </p>
 <br />
