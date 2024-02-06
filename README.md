@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src= "https://i.imgur.com/W4rZQua.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= "https://i.imgur.com/kNGs2CL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Upon provisioning a resource group within the Microsoft Azure environment, a virtual network is established as an integral component. Subsequently, the creation of a virtual machine ensues, facilitating remote desktop access as per our operational requirements.
